@@ -1,0 +1,50 @@
+body {
+    background-image: url("linear-gradient-white-blue-1920x1080-c2-5f9ea0-f8f8ff-a-270-f-14.svg");
+}
+.menu {
+    text-align: center;
+    text-transform: uppercase;
+}
+.menu a {
+    background-color: dodgerblue;
+}
+.menu a:hover {
+    background-color: white;
+    text-decoration: none;
+}
+.slika1 img{
+    width: 600px;
+    margin-left: 300px;
+    border-radius: 50px;
+    padding-top: 50px;
+}
+.slika2 img {
+    width: 300px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+.contact h1{
+    color: white;
+    font-family:"Harlow Solid Italic";
+    margin-left: 900px;
+    margin-top: -270px;
+}
+.slika3 img{
+    width: 70px;
+    margin-left: 900px;
+    padding-top: 20px;
+}
+.slika4 img{
+    width: 100px;
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+.p1 {
+    color:white;
+    margin-left: 900px;
+}
+.p2 {
+    color:white;
+    margin-left: 1000px;
+    margin-top: -15px;
+}

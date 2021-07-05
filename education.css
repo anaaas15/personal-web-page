@@ -1,0 +1,30 @@
+body {
+    background-color: cadetblue;
+}
+.menu {
+    text-align: center;
+    text-transform: uppercase;
+}
+.menu a {
+    background-color: dodgerblue;
+}
+.menu a:hover {
+    background-color: white;
+    text-decoration: none;
+}
+.education img{
+    width: 400px;
+}
+.education1 {
+    margin-left: 600px;
+    margin-top: -200px;
+}
+.slika img{
+    width: 300px;
+    margin-left: 1000px;
+    margin-top: -200px;
+}
+.parag1 {
+    margin-left: 800px;
+    margin-top: -300px;
+}
